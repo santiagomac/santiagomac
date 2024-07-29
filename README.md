@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Next Js, Astro**
 
-- 👨‍💻 All of my projects are available at [santiagomac.dev.pages](https://santiagomac.dev.pages)
+- 👨‍💻 All of my projects are available at [santiagomac.dev.pages](https://santiagomac.pages.dev)
 
 - 💬 Ask me about **Java, Spring, Angular**
 
